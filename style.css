@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px) {
+  .column1 {
+    width: 50% !important;
+  }
+  .column2 {
+    width: 50% !important;
+  }
+
+  .col-md-6 {
+    width: 50% !important;
+  }
+}
+.stepper {
+  .line {
+    width: 2px;
+    background-color: lightgrey !important;
+  }
+  .lead {
+    font-size: 1.1rem;
+  }
+}
+
